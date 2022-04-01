@@ -19,7 +19,7 @@ Qualificação submetida ao Programa de Engenharia Elétrica da Universidade Fed
 
 ```RoB3RTa_Training.ipynb```: Notebook do treinamento do RoB3RTa com o corpus resultante da junção dos tweets com os textos da Leipzig Corpora Collection.
 
- ```Sentence_Histogram.ipynb```: Notebook para geração dos histogramas com a distribuição do número de palavras e caracteres nas manchetes do dataset
+ ```Sentence_Histogram.ipynb```: Notebook para geração dos histogramas com a distribuição do número de palavras e caracteres nas manchetes do dataset.
 
 ```TransformerModels_TrainTest.ipynb```: Notebook do treinamento e cross-validation dos modelos baseados na arquitetura Transformer.
 
